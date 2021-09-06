@@ -1,2 +1,2 @@
 # Visual-Sorting
- a Web Visualization tool to understand various sorting algorithms 
+ A Web Visualization tool to understand various sorting algorithms 
